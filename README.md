@@ -27,3 +27,9 @@ Nama
 Ukuran
 Harga
 Stok yang tersedia Ini membantu Anda tahu sepatu mana yang masih tersedia.
+Jual Sepatu Digunakan ketika ada pelanggan yang ingin membeli sepatu. Anda cukup:
+Memilih nama sepatu
+Menentukan jumlah yang dibeli Program akan:
+Mengurangi stok sesuai jumlah yang terjual
+Menghitung total harga yang harus dibayar Jika stok tidak cukup, program akan memberitahu bahwa stok tidak mencukupi.
+Keluar Jika Anda selesai menggunakan aplikasi, Anda bisa memilih opsi ini untuk menutup program.
